@@ -1,3 +1,23 @@
+<p align="center">
+  <!-- Title Badge -->
+  <img src="https://img.shields.io/badge/Database%20Intermediate-Chapter%201-blue?style=for-the-badge">
+
+  <!-- Technology Badges -->
+  <img src="https://img.shields.io/badge/SQL-Querying%20%26%20Aggregation-orange?style=for-the-badge&logo=sqlite">
+  <img src="https://img.shields.io/badge/COUNT()-%20DISTINCT%20%7C%20Execution%20Order-green?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/Formatting-Best%20Practices-purple?style=for-the-badge&logo=googleforms">
+
+  <!-- Status Badges -->
+  <img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+
+  <!-- Author Badge -->
+  <a href="https://github.com/FarhadNuri">
+    <img src="https://img.shields.io/badge/Author-Farhad%20Nuri-lightgrey?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+
 # 📘 Chapter 1: Querying a Database
 
 Learn how to count records, combine COUNT with DISTINCT, understand SQL execution order, and format SQL queries properly.
