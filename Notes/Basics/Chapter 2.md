@@ -39,24 +39,25 @@ SQL keywords are **reserved words** that specify what operation you want to perf
 The `SELECT` statement controls what data you retrieve.
 
 ### ✔ Select a single field:
-
+```sql
 SELECT 
     name 
 FROM table_name;
-
+```
 
 ### ✔ Select multiple fields:
-
+```sql
 SELECT 
     name, 
     age 
 FROM table_name;
-
+```
 ### ✔ Select all fields:
-
-SELECT * FROM table_name;
-
-📌 * means return everything from the table.
+```sql
+SELECT *
+FROM table_name;
+```
+📌 `SELECT * ` means return everything from the table.
 
 ---
 
@@ -67,10 +68,11 @@ Aliasing allows you to rename columns for clarity or convenience.
 Example:
 
 Your table has a field named name, but you want to treat it as first_name.
-
-✔ SELECT name AS first_name 
+```sql
+SELECT 
+    name AS first_name 
 FROM employees;
-
+```
 📌 Aliases do not change stored data — they only rename data in the query output.
 
 ---
@@ -79,15 +81,18 @@ FROM employees;
 
 By default, SQL returns all values including duplicates.
 
-Example returning duplicates:
-
-✔ SELECT year_hired FROM employees;
-
-To retrieve only unique values:
-
-✔ SELECT DISTINCT year_hired 
+### Example returning duplicates:
+```sql
+SELECT
+    year_hired
 FROM employees;
-
+```
+### To retrieve only unique values:
+```sql
+SELECT DISTINCT 
+    year_hired 
+FROM employees;
+```
 📌 DISTINCT filters out duplicates automatically.
 
 ---
@@ -107,44 +112,49 @@ A View is a saved SQL query.
 - Useful for reusing complicated queries
 
 ### Create a View:
-
-✔ CREATE VIEW employee_hired_years AS
-SELECT id, name, year_hired 
+```sql
+CREATE VIEW employee_hired_years AS
+SELECT
+    id,
+    name,
+    year_hired 
 FROM employees;
-
+```
 📌 Creating a view does not show results — it only saves the query.
 
 ### Use the View:
-
-✔ SELECT id, name 
+```sql
+SELECT
+    id,
+    name 
 FROM employee_hired_years;
-
+```
 ---
 
 ## 📚 Example: Library Authors View
 
 ### Create a view of unique book authors:
-
-✔ CREATE VIEW library_authors AS
-SELECT DISTINCT author AS unique_author 
+```sql
+CREATE VIEW library_authors AS
+SELECT DISTINCT author
+AS unique_author 
 FROM books;
-
-✔ Select all data from the view:
+```
+### Select all data from the view:
+```sql
 SELECT * 
 FROM library_authors;
-
+```
 ## ✅ Summary
 
 ### Chapter 2 teaches you:
 
 - What SQL keywords do
-
 - How to write SELECT queries
-
 - Using aliases to rename columns
-
 - Retrieving unique values with DISTINCT
-
 - Creating and querying SQL Views
 
 These concepts form the foundation of writing clean, powerful SQL queries.
+
+---
