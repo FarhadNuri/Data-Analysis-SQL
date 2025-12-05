@@ -34,10 +34,8 @@ The analysis uses the `international_debt` table with the following structure:
 
 ## 🛠️ Technologies Used
 
-- **SQL** - For data querying and analysis
-- **PostgreSQL/MySQL** - Database management system (specify your DBMS)
-- **Python** (optional) - For data visualization
-- **Jupyter Notebook** (optional) - For interactive analysis
+- **PostgreSQL/MySQL** - For data querying and analysis
+
 
 ## 📁 Project Structure
 
@@ -71,6 +69,22 @@ Analyze International Debt Statistics/
 - **Number of distinct countries:** 124
 - **Country with highest debt:** China
 - **Country with lowest repayments:** Timor-Leste
+## 💡 Insights
+
+### The analysis of international debt data from The World Bank reveals compelling patterns across 124 developing countries:
+
+### 1. 📊 Debt Concentration: 
+
+China stands out with an overwhelming total debt of approximately $285.79 billion USD, demonstrating the massive scale of infrastructure and development financing required for large emerging economies. This represents a significant portion of total developing country debt.
+
+### 2. ⚠️ Economic Vulnerability: 
+
+At the opposite end of the spectrum, Timor-Leste shows the lowest principal repayments at just $825,000 USD on long-term external debt. This could indicate either a smaller debt burden, limited borrowing capacity, or potential challenges in economic development that restrict access to international financing.
+
+### 3. 🌍 Development Implications: 
+
+The stark contrast—with China's debt being approximately 346,000 times larger than Timor-Leste's repayments—underscores the vast disparities in economic scale, development needs, and financial capacity among developing nations. This highlights the importance of tailored debt management strategies and international financial policies that account for diverse economic realities across countries.
+
 
 ## 🙏 Acknowledgments
 
@@ -79,9 +93,9 @@ Analyze International Debt Statistics/
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourhandle) - your.email@example.com
+Farhad Nuri - farhadnuri559@gmail.com
 
-Project Link: [https://github.com/FarhadNuri/international-debt-analysis](https://github.com/yourusername/international-debt-analysis)
+Project Link: [Analyze International Debt Statistics](https://github.com/FarhadNuri/Data-Analysis-SQL/tree/main/Projects/2.%20Analyze%20International%20Debt%20Statistics)
 
 ---
 
