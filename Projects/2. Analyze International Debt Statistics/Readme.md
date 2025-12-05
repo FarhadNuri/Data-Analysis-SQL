@@ -42,7 +42,7 @@ The analysis uses the `international_debt` table with the following structure:
 ## 📁 Project Structure
 
 ```
-international-debt-analysis/
+Analyze International Debt Statistics/
 │
 ├── data/
 │   └── international_debt.csv
@@ -53,50 +53,24 @@ international-debt-analysis/
 │   └── lowest_repayments.sql
 │
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── international_debt.ipynb
 │
-├── images/
-│   └── banner.jpg
 │
 ├── README.md
-└── requirements.txt
 ```
 
-## 🚀 Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - SQL database (PostgreSQL, MySQL, or SQLite)
 - Basic understanding of SQL queries
-- (Optional) Python 3.x for additional analysis
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/international-debt-analysis.git
-cd international-debt-analysis
-```
-
-2. Load the dataset into your database:
-```bash
-# Example for PostgreSQL
-psql -U your_username -d your_database -f data/load_data.sql
-```
-
-3. Run the SQL queries from the `queries/` folder
 
 ## 📈 Key Findings
 
-*This section will be updated with analysis results*
-
-- **Number of distinct countries:** [To be determined]
-- **Country with highest debt:** [To be determined]
-- **Country with lowest repayments:** [To be determined]
-
-## 💡 Insights
-
-*Add your insights and observations here after completing the analysis*
+- **Number of distinct countries:** 124
+- **Country with highest debt:** China
+- **Country with lowest repayments:** Timor-Leste
 
 ## 🙏 Acknowledgments
 
@@ -107,7 +81,7 @@ psql -U your_username -d your_database -f data/load_data.sql
 
 Your Name - [@yourtwitter](https://twitter.com/yourhandle) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/international-debt-analysis](https://github.com/yourusername/international-debt-analysis)
+Project Link: [https://github.com/FarhadNuri/international-debt-analysis](https://github.com/yourusername/international-debt-analysis)
 
 ---
 
