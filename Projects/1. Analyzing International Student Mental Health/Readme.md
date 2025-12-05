@@ -60,10 +60,10 @@ International-Student-Mental-Health/
 │   └── student_mental_health.csv
 │
 ├── queries/
-│   ├── 1_depression_comparison.sql
-│   ├── 2_language_proficiency_impact.sql
-│   ├── 3_academic_level_comparison.sql
-│   └── 4_length_of_stay.sql
+│   ├── 1. depression_comparison.sql
+│   ├── 2. language_proficiency_impact.sql
+│   ├── 3. academic_level_comparison.sql
+│   └── 4. length_of_stay.sql
 │
 ├── notebooks/
 │   └── student_mental_health.ipynb
@@ -119,7 +119,7 @@ Undergraduate international students show higher vulnerability to mental health 
 
 Farhad Nuri - farhadnuri559@gmail.com
 
-Project Link: [International Student Mental Health Analysis]([https://github.com/yourusername/international-student-mental-health](https://github.com/FarhadNuri/Data-Analysis-SQL/tree/main/Projects/1.%20Analyzing%20International%20Student%20Mental%20Health))
+Project Link: [International Student Mental Health Analysis]([https://github.com/FarhadNuri/Data-Analysis-SQL](https://github.com/FarhadNuri/Data-Analysis-SQL/tree/main/Projects/1.%20Analyzing%20International%20Student%20Mental%20Health))
 
 ---
 
