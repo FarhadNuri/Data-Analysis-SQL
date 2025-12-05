@@ -1,7 +1,6 @@
-# 🧠 International Student Mental Health Analysis
+# 🧠 Analyzing International Student Mental Health
 
-![Project Banner](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=400&fit=crop)
-
+![Project Banner](https://www.ipr.northwestern.edu/images/news-story-images/nusslock-brain.jpg)
 ## 📋 Project Overview
 
 This project analyzes mental health data from international students at a Japanese university to understand the relationship between student status, length of stay, and mental health outcomes. Using SQL queries, we explore patterns in depression scores, social connectedness, and acculturative stress to validate findings from a 2018 university survey.
@@ -118,9 +117,9 @@ Undergraduate international students show higher vulnerability to mental health 
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Farhad Nuri - farhadnuri559@gmail.com
 
-Project Link: [International Student Mental Health Analysis](https://github.com/yourusername/international-student-mental-health)
+Project Link: [International Student Mental Health Analysis]([https://github.com/yourusername/international-student-mental-health](https://github.com/FarhadNuri/Data-Analysis-SQL/tree/main/Projects/1.%20Analyzing%20International%20Student%20Mental%20Health))
 
 ---
 
