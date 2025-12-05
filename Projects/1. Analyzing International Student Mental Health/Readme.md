@@ -119,7 +119,7 @@ Undergraduate international students show higher vulnerability to mental health 
 
 Farhad Nuri - farhadnuri559@gmail.com
 
-Project Link: [International Student Mental Health Analysis]([https://github.com/FarhadNuri/Data-Analysis-SQL](https://github.com/FarhadNuri/Data-Analysis-SQL/tree/main/Projects/1.%20Analyzing%20International%20Student%20Mental%20Health))
+Project Link: [International Student Mental Health Analysis](https://github.com/FarhadNuri/Data-Analysis-SQL/tree/main/Projects/1.%20Analyzing%20International%20Student%20Mental%20Health)
 
 ---
 
