@@ -43,7 +43,7 @@ Learn about outer joins (LEFT, RIGHT, FULL) that can obtain records even when ma
 
 ### 📊 Visual Representation
 
-![LEFT JOIN Diagram](https://github.com/FarhadNuri/Data-Analysis-SQL/blob/32a7901b4b3230934066ba47d230f59c3217b039/Notes/JOINS/left.png)
+![LEFT JOIN Diagram](https://github.com/Farhad559/Codes/blob/dbaa1d26a9a8b8f97f36622ddde3f772871115ac/left.png)
 
 
 
@@ -147,7 +147,7 @@ LIMIT 10;
 
 ### 📊 Visual Representation
 
-![FULL JOIN Diagram](https://github.com/FarhadNuri/Data-Analysis-SQL/blob/a702e4e55ce26a79ed4297fbeb3e9696494b7806/Notes/JOINS/Full.png)
+![FULL JOIN Diagram](https://github.com/Farhad559/Codes/blob/dbaa1d26a9a8b8f97f36622ddde3f772871115ac/Full.png)
 
 **Result:** All records from both tables (NULL where no match exists on either side)
 
@@ -213,7 +213,7 @@ LIMIT 5;
 
 ### 📊 Visual Representation
 
-![CROSS JOIN Diagram](https://github.com/FarhadNuri/Data-Analysis-SQL/blob/971221ef19a51ba58c6fec09f467aa15ab22a67d/Notes/JOINS/Cross.png)
+![CROSS JOIN Diagram](https://github.com/Farhad559/Codes/blob/dbaa1d26a9a8b8f97f36622ddde3f772871115ac/Cross.png)
 
 **Result:** Every row from table1 paired with every row from table2
 
